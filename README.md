@@ -1,6 +1,6 @@
 # RESTful_API
 
-Build a RESTfull CRUD API using Node.js,Express,MongoDB.
+Build a RESTful CRUD API using Node.js,Express,MongoDB.
 
 ## Step 1: Installing Dependencies
  ```npm install```
