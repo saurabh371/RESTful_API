@@ -1,4 +1,4 @@
-# RESTfull_API
+# RESTful_API
 
 Build a RESTfull CRUD API using Node.js,Express,MongoDB.
 
